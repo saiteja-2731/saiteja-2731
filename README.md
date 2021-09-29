@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Interested in Web development, Data Structures and Algorithms
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-2731)](https://git.io/streak-stats)
