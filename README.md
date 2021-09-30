@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a final year Under Grad at NIT Nagpur.
-An electrical engineer who developed interest in coding and development 
+I am a final year Under Grad at NIT Nagpur. 
+
+An electrical engineer who developed interest in coding and development.
+
 I’m currently learning Node.js, MongoDB.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-2731)](https://git.io/streak-stats)
