@@ -18,7 +18,7 @@ I am a final year Under Grad at NIT Nagpur.
 
 An electrical engineer who developed interest in coding and development.
 
-I’m currently learning Node.js, MongoDB.
+My Skills include Javascript, NodeJS, C++, Data Structures and Algorithms, React, MongoDB
 
 
 
